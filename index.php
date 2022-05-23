@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php include("db.php")?>
 
 <?php include("includes/header.php")?>
@@ -70,3 +71,6 @@
 
     
     
+=======
+ola
+>>>>>>> eaa888b35e2169cc36f8fc8df758edc20617ce43
